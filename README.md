@@ -24,7 +24,7 @@ Assegurei que a visão do cliente fosse traduzida em especificações técnicas 
 ## 🔗 Links e Evidências
 
 * **Website no Ar:** [*em andamento*]
-* **Repositório de Código Principal:** (CasaDaGi)[https://github.com/Funkmnk/casa-da-gi]
+* **Repositório de Código Principal:** [CasaDaGi](https://github.com/Funkmnk/casa-da-gi)
 * **Minhas Contribuições (Commits):** Você pode visualizar minhas contribuições diretas de código no histórico de *commits* do repositório principal.
 
 ---
